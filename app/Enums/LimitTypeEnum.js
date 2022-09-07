@@ -4,7 +4,7 @@ const LimitTypeEnum = Enum({
   DEPOSIT: 'deposit',
   WITHDRAW: 'withdraw',
   TRANSFER: 'transfer',
-  CONVERT: 'convert',
+  EXCHANGE: 'exchange',
 })
 
 export default LimitTypeEnum
